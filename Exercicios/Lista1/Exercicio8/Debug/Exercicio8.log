@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Matheus\source\repos\ListasExercicios\ListasExercicios\Lista1\Exercicio8\Source.cpp(221,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+LINK : fatal error LNK1168: não foi possível abrir C:\Users\Matheus\source\repos\ListasExercicios\ListasExercicios\Lista1\Debug\Exercicio8.exe para escrita

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Matheus\source\repos\ListasExercicios\ListasExercicios\Lista1\Exercicio6_e\Source.cpp(155,16): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Matheus\source\repos\ListasExercicios\ListasExercicios\Lista1\Exercicio6_e\Source.cpp(158,16): warning C4305: '=': truncamento de 'double' para 'float'
+  Exercicio6_e.vcxproj -> C:\Users\Matheus\source\repos\ListasExercicios\ListasExercicios\Lista1\Debug\Exercicio6_e.exe
